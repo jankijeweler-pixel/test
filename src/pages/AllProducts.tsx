@@ -167,7 +167,7 @@ export default function AllProducts() {
   };
 
   const handleAddToCart = (product: Product) => {
-    addToCart({ product_id: product.id, quantity: 1, price: product.price, products: product });
+    addToCart(product.id);
   };
 
   if (loading) {
