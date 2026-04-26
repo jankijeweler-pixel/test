@@ -55,7 +55,7 @@ export default function Navbar({ onCartClick, onSearchClick }: NavbarProps) {
               +91 99997 69192
             </span>
             <span className="hidden sm:inline text-#E8F5E9">
-              Free shipping on orders above ₹999
+              Free shipping on orders
             </span>
           </div>
           <div className="flex items-center gap-2">
