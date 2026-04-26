@@ -60,7 +60,7 @@ export default function Navbar({ onCartClick, onSearchClick }: NavbarProps) {
           </div>
           <div className="flex items-center gap-2">
             <span className="bg-[#D4A017] text-amber-900 px-3 py-1 rounded-full font-bold text-[10px] uppercase tracking-wider">
-              New User Offer
+             
             </span>
             <span className="text-amber-100 font-medium">Use code: FRESH10</span>
           </div>

@@ -114,9 +114,9 @@ export default function Categories() {
         {/* Bottom Stats */}
         <div className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-8">
           {[
-            { value: '500+', label: 'Organic Products' },
-            { value: '10K+', label: 'Happy Customers' },
-            { value: '100%', label: 'Certified Organic' },
+            { value: '10+', label: 'Homegrown Products' },
+            { value: '500+', label: 'Happy Customers' },
+            { value: '100%', label: 'Certified Products' },
             { value: '15+', label: 'States Delivered' },
           ].map((stat, index) => (
             <div key={index} className="text-center">
