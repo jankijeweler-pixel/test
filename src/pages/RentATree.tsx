@@ -127,7 +127,7 @@ const treeCategories: TreeCategory[] = [
         image: '/images/krishnabhog.jpg',
         description: 'Divine taste with perfect blend of sweetness',
         descriptionHi: 'मिठास का परिपूर्ण मिश्रण के साथ दिव्य स्वाद',
-        season: 'May - July',
+        season: 'June',
         seasonHi: 'मई - जुलाई',
         location: 'Noida, Uttar Pradesh',
         locationHi: 'नोएडा, उत्तर प्रदेश',
