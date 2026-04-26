@@ -86,7 +86,7 @@ export default function Hero() {
           <div className="space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-md rounded-full border border-white/20">
               <span className="w-2 h-2 bg-[#D4A017] rounded-full animate-pulse" />
-              <span className="text-[#D4A017] text-sm font-medium">Trusted by 50,000+ Customers</span>
+              <span className="text-[#D4A017] text-sm font-medium">Trusted by 10,000+ Customers</span>
             </div>
 
             {heroSlides.map((slide, index) => (
