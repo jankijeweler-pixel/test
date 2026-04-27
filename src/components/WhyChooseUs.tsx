@@ -3,7 +3,7 @@ import { Leaf, ShieldCheck, Users, Truck, HeartHandshake, Sprout, Award, Recycle
 const features = [
   {
     icon: Leaf,
-    title: "100% Organic",
+    title: "100% Homegrown",
     description: "All products are certified organic, grown without harmful pesticides or chemical fertilizers. Pure nature, nothing else.",
     color: "from-[#4A7C59] to-[#2D5A27]"
   },
